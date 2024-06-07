@@ -4,10 +4,10 @@ Bienvenidos a nuestro TeleRobot
 ## Documentacion
 [Documentacion_POO.pdf](https://github.com/Sebastian-Narvaez117/elgwey/blob/main/Documentacion_POO.pdf)
 
-Para poder visualizar cada uno de las paginas con las que estamos trabajando es necesario colocar el nombre del archivo que se necesita ejecutar , esto debido a que github le toma un poco de timepo poder implementar todo , a continuacion le adjunto cada link para que sea mas facil
-
 
 ## Direccion pagina web:
+Para poder visualizar cada uno de las paginas con las que estamos trabajando es necesario colocar el nombre del archivo que se necesita ejecutar , esto debido a que github le toma un poco de timepo poder implementar todo , a continuacion le adjunto cada link para que sea mas facil
+
 https://sebastian-narvaez117.github.io/Brazorobotico/Index
 
 https://sebastian-narvaez117.github.io/Brazorobotico/descripcion
