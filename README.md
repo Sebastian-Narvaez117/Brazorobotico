@@ -2,7 +2,10 @@
 Bienvenidos a nuestro TeleRobot
 
 ## Documentacion
-[Documentacion_POO.pdf](https://github.com/Sebastian-Narvaez117/Brazorobotico-/blob/main/Documentacion_POO.pdf)
+
+Aqui se adjunta toda la documentacion y el diagrama de clases que se realizo para el proyecto
+
+[Documentacion_POO.pdf](https://github.com/Sebastian-Narvaez117/Brazorobotico/blob/main/Documentacion_POO.pdf)
 # Link del Github
 https://github.com/Santiagote/BrazoRobotico.git
 
