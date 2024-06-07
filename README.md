@@ -1,3 +1,9 @@
+# NEXUS
+TELEROBOT
+
+# DOCUMENTACION 
+[Documentacion_POO.pdf](https://github.com/user-attachments/files/15742918/Documentacion_POO.pdf)
+
 # Brazorobotico
 Links provisionales para visyalizar la pagina , hasta que github pueda compilar todos nuestros archivos
 
