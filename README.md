@@ -1,5 +1,5 @@
-# Brazorobotico
-Bienvenidos a nuestro grupo
+# NEXUS
+Bienvenidos a nuestro TeleRobot
 
 ## Documentacion
 [Documentacion_POO.pdf](https://github.com/Sebastian-Narvaez117/elgwey/blob/main/Documentacion_POO.pdf)
